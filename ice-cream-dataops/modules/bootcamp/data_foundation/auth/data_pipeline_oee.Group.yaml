@@ -1,5 +1,5 @@
 name: data_pipeline_oee
-sourceId: 7a7a97ea-78e1-4f44-8e16-3b8646f9a81b
+sourceId: {{ data_pipeline_oee_source_id }}
 capabilities:
   - datasetsAcl:
       actions: [READ]
